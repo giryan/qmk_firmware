@@ -22,7 +22,7 @@ enum layers {
     LOWER,
     RAISE,
     NAV,
-    ADJUST-+
+    ADJUST
 };
 
 enum custom_keycodes {
